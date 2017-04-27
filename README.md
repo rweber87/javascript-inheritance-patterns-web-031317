@@ -16,6 +16,7 @@ In a class-based OO language, such as Ruby, Java, C#, and C++, we must
 first design the *Class*, or blueprint, of an object, and then create
 objects from that blueprint in order to use them.
 
+
 Imagine a set of instructions from IKEA as the *Class*, and your
 assembled Fthugënbøller bookcase as the *object*.
 
